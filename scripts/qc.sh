@@ -1,5 +1,5 @@
 #!/bin/bash
-
+OOPSAGAIN
 fastp \
   -i sample_R1.fastq.gz \
   -I sample_R2.fastq.gz \
