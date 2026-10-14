@@ -5,7 +5,7 @@
 #SBATCH --partition=cpu
 #SBATCH --nodes=1
 #SBATCH --mem=16G
-#SBATCH --time=48:00:00
+#SBATCH --time=72:00:00
 
 set -euo pipefail
 
